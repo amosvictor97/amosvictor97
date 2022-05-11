@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/victorious"><img src="https://api.daily.dev/devcards/e327cb9287a745529fb537d477238dbc.png?r=maz" width="400" alt="Amos  ATSUVIA's Dev Card"/></a>
+
 <!--
 **amosvictor97/amosvictor97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
